@@ -1,0 +1,7 @@
+Atividade: Quais impactos a Ciência de Dados pode gerar na minha área de atuação.
+
+Sou formada em matématica e atualmente trabalho com ciência de dados, portanto, vejo os impactos da ciência de dados na matemática na prática.
+Por meio da coleta e análise de grandes conjuntos de dados, cientistas de dados podem descobrir padrões e tendências que não seriam facilmente
+detectados usando métodos matemáticos tradicionais. Além disso, a ciência de dados também pode ajudar a identificar problemas matemáticos complexos
+que podem ser resolvidos por meio de algoritmos e modelos de aprendizado de máquina. Como tal, a ciência de dados está desempenhando um papel importante
+na evolução da matemática, ajudando a descobrir novas aplicações e expandindo a compreensão geral da disciplina.
